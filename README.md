@@ -1,1 +1,1 @@
-# app1-with-service-and-postgres-independent-calls
+# app1-with-postgres
